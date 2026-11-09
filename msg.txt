@@ -1,4 +1,0 @@
-chore: 初始化更新分发仓
-
-GitHub 不允许在空仓上创建 release，先放一个 README。
-这个仓只放 DiJiang 桌面版的安装包、blockmap 与 latest.yml，源码在私有仓。
